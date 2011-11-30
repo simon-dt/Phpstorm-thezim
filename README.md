@@ -1,5 +1,7 @@
 This is my color scheme for PHPStorm *(at the moment)*
 
+It is a darkbackground theme that is plasing to the eye (imho)
+
 **work in progress!**
 
 ####The covered languages are:
