@@ -1,5 +1,7 @@
 This is my color scheme for PHPStorm *(at the moment)*
 
+**work in progress!**
+
 ####The covered languages are:
 
 - XML
@@ -12,10 +14,6 @@ This is my color scheme for PHPStorm *(at the moment)*
 - Javascript
 - DIFF
 - Apache config
-
-####It looks like this:
-![Monokai_Sublime screenshot](https://github.com/zimmen/THISREP{O/raw/master/screenshot.png)
-
 
 
 ### Installation
