@@ -4,6 +4,10 @@ It is a darkbackground theme that is plasing to the eye (imho)
 
 **work in progress!**
 
+####It looks like this:
+![Monokai_Sublime screenshot](https://github.com/zimmen/Phpstorm-thezim/raw/master/screenshot.jpg)
+
+
 ####The covered languages are:
 
 - XML
